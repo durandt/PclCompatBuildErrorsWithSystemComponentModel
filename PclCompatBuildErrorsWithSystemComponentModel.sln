@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PclCompatBuildErrorsWithSystemComponentModel", "PclCompatBuildErrorsWithSystemComponentModel\PclCompatBuildErrorsWithSystemComponentModel.csproj", "{5219903C-1B48-4209-BB67-6BCF3EB5D136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PclCompatBuildErrorsWithSystemComponentModel.Droid", "Droid\PclCompatBuildErrorsWithSystemComponentModel.Droid.csproj", "{103C5C01-9A8F-45DB-963B-B4D1D119E8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5219903C-1B48-4209-BB67-6BCF3EB5D136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5219903C-1B48-4209-BB67-6BCF3EB5D136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5219903C-1B48-4209-BB67-6BCF3EB5D136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5219903C-1B48-4209-BB67-6BCF3EB5D136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103C5C01-9A8F-45DB-963B-B4D1D119E8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103C5C01-9A8F-45DB-963B-B4D1D119E8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103C5C01-9A8F-45DB-963B-B4D1D119E8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103C5C01-9A8F-45DB-963B-B4D1D119E8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
